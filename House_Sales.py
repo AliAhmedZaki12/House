@@ -62,3 +62,4 @@ if st.button("🔍 Predict Price"):
 
     # عرض النتيجة
     st.success(f"💲 Estimated House Price: ${predicted_price:,.2f}")
+    st.caption("Developed by Ali Ahmed Zaki")
