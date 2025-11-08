@@ -11,7 +11,7 @@ try:
 except:
     model_columns = model.named_steps['preprocessor'].feature_names_in_.tolist()
 
-st.title("🏡 House Price Prediction (Simplified)")
+st.title("🏡 House Price Prediction")
 st.markdown("### Enter the basic information about the house:")
 
 # ==========  إدخال البيانات من المستخدم ==========
