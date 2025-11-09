@@ -47,16 +47,17 @@ These metrics collectively provide a comprehensive performance assessment for re
 
 When deployed interactively, users can input property details as follows:
 
-| Feature | 
-|----------|----------------|
-| **Number of Bedrooms** | 
+| Feature |
+|----------|
+| **Number of Bedrooms** |
 | **Number of Bathrooms** |
-| **Living Area (sqft)** | 
-| **Number of Floors** | 
-| **Waterfront View** | 
-| **View Quality** | 
-| **ZIP Code** | 
-| **House Age (years)** | 
+| **Living Area (sqft)** |
+| **Number of Floors** |
+| **Waterfront View** |
+| **View Quality** |
+| **ZIP Code** |
+| **House Age (years)** |
+ 
 
 After entering these values, the system generates a predicted house price instantly.
 
