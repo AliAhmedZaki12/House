@@ -1,5 +1,5 @@
 # 🏡 House Price Prediction 
-(https://houseprice-app12.streamlit.app/)
+App : (https://houseprice-app12.streamlit.app/)
 
 ##  (Overview)
 This project focuses on building an intelligent **machine learning model** capable of accurately predicting **house prices** based on a variety of real estate features.
@@ -47,7 +47,7 @@ These metrics collectively provide a comprehensive performance assessment for re
 
 When deployed interactively, users can input property details as follows:
 
-| Feature | Example Value |
+| Feature | 
 |----------|----------------|
 | **Number of Bedrooms** | 
 | **Number of Bathrooms** |
